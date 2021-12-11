@@ -114,6 +114,31 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
+## Wallet X Website Design
+
+### Wallet X Website UI
+<iframe src="https://player.vimeo.com/video/654293470" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Menu Bar and BG
+<iframe src="https://player.vimeo.com/video/654293596" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Landing Page P1
+<iframe src="https://player.vimeo.com/video/654295139" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Landing Page P2
+<iframe src="https://player.vimeo.com/video/654297727" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Benefits
+<iframe src="https://player.vimeo.com/video/654300862" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Credit Card And More
+<iframe src="https://player.vimeo.com/video/654302925" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Prototype
+<iframe src="https://player.vimeo.com/video/654306455" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
 
 ### Markdown
 
