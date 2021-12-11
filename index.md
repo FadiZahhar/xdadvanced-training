@@ -51,6 +51,22 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
+## Design Mode Homework
+
+### Finance App Homework
+<iframe src="https://player.vimeo.com/video/654246338" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Background and Credit Card Design
+<iframe src="https://player.vimeo.com/video/654246438" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Buttons And The Rest Of The Screen Design
+<iframe src="https://player.vimeo.com/video/654251804" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Second Screen Design
+<iframe src="https://player.vimeo.com/video/654262813" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
 
 ### Markdown
 
