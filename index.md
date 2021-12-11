@@ -12,6 +12,46 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Difference between UI and UX designer
 <iframe src="https://player.vimeo.com/video/654203476" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+
+
+## Basics Of XD Design Mode
+
+### Design Mode
+<iframe src="https://player.vimeo.com/video/654203836" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Download Adobe XD, First time opening it
+<iframe src="https://player.vimeo.com/video/654204584" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Working with Artboards
+<iframe src="https://player.vimeo.com/video/654206687" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Working with Shapes and Lines
+<iframe src="https://player.vimeo.com/video/654209971" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Working With Text
+<iframe src="https://player.vimeo.com/video/654217804" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Working With Images
+<iframe src="https://player.vimeo.com/video/654221408" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Alignment Tools & Boolean Operations
+<iframe src="https://player.vimeo.com/video/654225195" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Assets & Components
+<iframe src="https://player.vimeo.com/video/654228640" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Repeat Grid
+<iframe src="https://player.vimeo.com/video/654233763" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Responsive Resize
+<iframe src="https://player.vimeo.com/video/654235460" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Plugins
+<iframe src="https://player.vimeo.com/video/654237008" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
