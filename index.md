@@ -67,6 +67,31 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
+## Basics of XD Prototype Mode
+
+### Everything About Prototyping
+<iframe src="https://player.vimeo.com/video/654270149" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Basics and Time Transition
+<iframe src="https://player.vimeo.com/video/654270379" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Component States
+<iframe src="https://player.vimeo.com/video/654272868" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Overlay, Scroll and Drag Prototype
+<iframe src="https://player.vimeo.com/video/654275279" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Voice, Sound, Gamepad Key Prototype
+<iframe src="https://player.vimeo.com/video/654277137" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Auto Animate
+<iframe src="https://player.vimeo.com/video/654278752" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Prototype Homework
+<iframe src="https://player.vimeo.com/video/654281854" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
 
 ### Markdown
 
